@@ -1,0 +1,8 @@
+{
+  "presets": [
+    ["env", { "exclude": ["babel-plugin-transform-regenerator"] }],
+    "stage-0",
+    "react",
+    "flow"
+  ]
+}
